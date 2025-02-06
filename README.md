@@ -1,2 +1,2 @@
 # macOS-FS-Monitor
-MacOS Process &amp; File Activity Monitor
+macOS Process &amp; File Activity Monitor
