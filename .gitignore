@@ -1,0 +1,28 @@
+# Xcode specific
+.DS_Store
+UserInterfaceState.xcuserstate
+xcuserdata/
+project.xcworkspace/
+*.xcscmblueprint
+*.xccheckout
+
+# Build and Derived Data
+DerivedData/
+.build/
+*.o
+*.d
+*.dia
+*.pcm
+*.xcodeproj/project.xcworkspace/
+*.xcworkspace/xcuserdata/
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.kate-swp
+*.lock
+
+# Logs
+*.log
+*.xcactivitylog
